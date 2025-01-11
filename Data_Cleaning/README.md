@@ -1,4 +1,4 @@
-# SQL Project - Data Cleaning
+# MySQL Project - Data Cleaning
 
 **Project Overview:**
 
